@@ -2,7 +2,7 @@
 
 ## **Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2cart.cy.js)**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę internetową "https://skleptest.pl".
   
@@ -18,7 +18,7 @@
 
 ## **Przypadek testowy 2: Dodawanie produktu do koszyka i wyświetlanie koszyka za pomocą przycisku "top-cart"**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę internetową "https://skleptest.pl".
   
@@ -84,7 +84,7 @@
 
 ## **Przypadek testowy 4: Dodawanie przedmiotów i finalizacja zamówienia jako zalogowany użytkownik**
 
-  Kroki:
+ **Kroki:**
 
   -Otwórz stronę internetową "https://skleptest.pl/my-account/".
   
@@ -123,7 +123,7 @@
   
 ## **Przypadek testowy 5: Wpisanie danych adresowych do rozliczenia jako zalogowany użytkownik**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę internetową "https://skleptest.pl/my-account/".
   
@@ -157,7 +157,7 @@
   
 ## **Przypadek testowy 6: Wpisywanie danych adresowych do wysyłki jako zalogowany użytkownik**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę internetową "https://skleptest.pl/my-account/".
   
@@ -190,7 +190,7 @@
   
 ## **Przypadek testowy 7: Logowanie z poprawnymi danymi**
   
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -204,7 +204,7 @@
 
 ## **Przypadek testowy 8: Logowanie z niepoprawną nazwą użytkownika**
 
-  Kroki:
+  **Kroki:**
   
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -219,7 +219,7 @@
   
 ## **Przypadek testowy 9: Logowanie z niepoprawnym hasłem**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -233,7 +233,7 @@
   
 ## **Przypadek testowy 10: Logowanie i wylogowanie**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -247,7 +247,7 @@
 
 ## **Przypadek testowy 11: Rejestracja z poprawnymi danymi**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -261,7 +261,7 @@
 
 ## **Przypadek testowy 12: Rejestracja z niepoprawnym adresem e-mail**
 
-  Kroki:
+  **Kroki:**
   
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -277,7 +277,7 @@
 
 ## **Przypadek testowy 13: Rejestracja bez podania hasła**
 
-  Kroku:
+  **Kroku:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -293,7 +293,7 @@
 
 ## **Przypadek testowy 14: Rejestracja bez podania adresu e-mail i hasła**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl/my-account/".
   
@@ -307,7 +307,7 @@
   
 ## **Przypadek testowy 15: Wyszukiwanie produktu "shirt"**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl".
   
@@ -321,7 +321,7 @@
 
 ## **Przypadek testowy 16: Wyszukiwanie produktu bez wyników**
 
-  Kroki:
+  **Kroki:**
 
   -Otwórz stronę "https://skleptest.pl".
   
