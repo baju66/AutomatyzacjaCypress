@@ -1,6 +1,6 @@
 *Zbiór testów automatyzujących napisane w Cypress.
 
-**Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2cart.cy.js)
+**Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2cart.cy.js)**
 
   Kroki:
 
