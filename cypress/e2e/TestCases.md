@@ -5,10 +5,15 @@ Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2
   Kroki:
 
   -Otwórz stronę internetową "https://skleptest.pl".
+  
   -Kliknij przycisk "Dodaj do koszyka" pierwszego produktu.
+  
   -Sprawdź, czy przycisk "Zobacz koszyk" jest widoczny.
+  
   -Kliknij przycisk "Zobacz koszyk".
+  
   -Sprawdź, czy adres URL zawiera "/cart".
+  
   -Sprawdź, czy na stronie istnieje tekst "Produkt".
 
 Przypadek testowy 2: Dodawanie produktu do koszyka i wyświetlanie koszyka za pomocą przycisku "top-cart"
