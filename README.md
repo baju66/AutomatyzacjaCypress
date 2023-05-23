@@ -1,2 +1,2 @@
 # AutomatyzacjaCypress
-Skrypty automatyzujące testowanie napisane w Cypress
+Skrypty automatyzujące testy napisane w Cypress
