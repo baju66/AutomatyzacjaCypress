@@ -31,7 +31,7 @@
   - Sprawdź, czy przekierowuje do strony z koszykiem zakupów.
   
   - Sprawdź, czy na stronie z koszykiem zakupów znajdują się wybrane wcześniej produkty.
-  - 
+ 
   **Oczekiwany rezultat:** Użytkownik przejdzie do strony z koszykiem i produkt będzie widoczny w koszyku 
 
 ## **Przypadek testowy 3: Dodawanie przedmiotów i finalizacja zamówienia jako niezalogowany użytkownik (buying.cy.js)**
@@ -158,7 +158,7 @@
 
   - Otwórz stronę internetową "https://skleptest.pl/my-account/".
   
-  Wpisz adres e-mail "bmykcdkpqgtlydkwuc@bbitf.com" w polu "Username or email address".
+  - Wpisz adres e-mail "bmykcdkpqgtlydkwuc@bbitf.com" w polu "Username or email address".
   
   - Wpisz hasło "Katana1234!" w polu "Password".
   
