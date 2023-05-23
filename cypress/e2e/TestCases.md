@@ -1,6 +1,6 @@
-Zbiór testów automatyzujących napisane w Cypress.
+*Zbiór testów automatyzujących napisane w Cypress.
 
-Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2cart.cy.js)
+**Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2cart.cy.js)
 
   Kroki:
 
@@ -16,7 +16,7 @@ Przypadek testowy 1: Dodawanie produktu do koszyka i wyświetlanie koszyka (add2
   
   -Sprawdź, czy na stronie istnieje tekst "Produkt".
 
-Przypadek testowy 2: Dodawanie produktu do koszyka i wyświetlanie koszyka za pomocą przycisku "top-cart"
+**Przypadek testowy 2: Dodawanie produktu do koszyka i wyświetlanie koszyka za pomocą przycisku "top-cart"
 
   Kroki:
 
@@ -32,7 +32,7 @@ Przypadek testowy 2: Dodawanie produktu do koszyka i wyświetlanie koszyka za po
   
   -Sprawdź, czy na stronie istnieje tekst "Produkt".
 
-Przypadek testowy 3: Dodawanie przedmiotów i finalizacja zamówienia jako niezalogowany użytkownik
+**Przypadek testowy 3: Dodawanie przedmiotów i finalizacja zamówienia jako niezalogowany użytkownik
 
   Kroki:
 
@@ -82,7 +82,7 @@ Przypadek testowy 3: Dodawanie przedmiotów i finalizacja zamówienia jako nieza
   
   -Sprawdź, czy na stronie istnieje tekst zawierający "order received".
 
-Przypadek testowy 4: Dodawanie przedmiotów i finalizacja zamówienia jako zalogowany użytkownik
+**Przypadek testowy 4: Dodawanie przedmiotów i finalizacja zamówienia jako zalogowany użytkownik
 
   Kroki:
 
@@ -121,7 +121,7 @@ Przypadek testowy 4: Dodawanie przedmiotów i finalizacja zamówienia jako zalog
   -Sprawdź, czy na stronie istnieje tekst zawierający "order received".
   
   
-Przypadek testowy 5: Wpisanie danych adresowych do rozliczenia jako zalogowany użytkownik
+**Przypadek testowy 5: Wpisanie danych adresowych do rozliczenia jako zalogowany użytkownik
 
   Kroki:
 
@@ -155,7 +155,7 @@ Przypadek testowy 5: Wpisanie danych adresowych do rozliczenia jako zalogowany u
   
   -Sprawdź, czy na stronie istnieje tekst "Address changed successfully".
   
-Przypadek testowy 6: Wpisywanie danych adresowych do wysyłki jako zalogowany użytkownik
+**Przypadek testowy 6: Wpisywanie danych adresowych do wysyłki jako zalogowany użytkownik
 
   Kroki:
 
@@ -188,7 +188,7 @@ Przypadek testowy 6: Wpisywanie danych adresowych do wysyłki jako zalogowany u�
   -Sprawdź, czy na stronie istnieje tekst "Address changed successfully".
   
   
-Przypadek testowy 7: Logowanie z poprawnymi danymi
+**Przypadek testowy 7: Logowanie z poprawnymi danymi
   
   Kroki:
 
@@ -217,7 +217,7 @@ Przypadek testowy 8: Logowanie z niepoprawną nazwą użytkownika
   -Kliknij na link "Dashboard" w nawigacji Moje konto.
   
   
-Przypadek testowy 9: Logowanie z niepoprawnym hasłem
+**Przypadek testowy 9: Logowanie z niepoprawnym hasłem
 
   Kroki:
 
@@ -231,7 +231,7 @@ Przypadek testowy 9: Logowanie z niepoprawnym hasłem
   
   -Kliknij na link "Dashboard" w nawigacji Moje konto.
   
-Przypadek testowy 10: Logowanie i wylogowanie
+**Przypadek testowy 10: Logowanie i wylogowanie
 
   Kroki:
 
@@ -245,7 +245,7 @@ Przypadek testowy 10: Logowanie i wylogowanie
   
   -Kliknij na link "Wyloguj się" w nawigacji Moje konto.
 
-Przypadek testowy 11: Rejestracja z poprawnymi danymi
+**Przypadek testowy 11: Rejestracja z poprawnymi danymi
 
   Kroki:
 
@@ -259,7 +259,7 @@ Przypadek testowy 11: Rejestracja z poprawnymi danymi
   
   -Kliknij na link "Wyloguj się" w nawigacji Moje konto.
 
-Przypadek testowy 12: Rejestracja z niepoprawnym adresem e-mail
+**Przypadek testowy 12: Rejestracja z niepoprawnym adresem e-mail
 
   Kroki:
   
@@ -275,7 +275,7 @@ Przypadek testowy 12: Rejestracja z niepoprawnym adresem e-mail
   
   -Kliknij na link "Wyloguj się" w nawigacji Moje konto.
 
-Przypadek testowy 13: Rejestracja bez podania hasła
+**Przypadek testowy 13: Rejestracja bez podania hasła
 
   Kroku:
 
@@ -291,7 +291,7 @@ Przypadek testowy 13: Rejestracja bez podania hasła
   
   -Kliknij na link "Wyloguj się" w nawigacji Moje konto.
 
-Przypadek testowy 14: Rejestracja bez podania adresu e-mail i hasła
+**Przypadek testowy 14: Rejestracja bez podania adresu e-mail i hasła
 
   Kroki:
 
@@ -305,7 +305,7 @@ Przypadek testowy 14: Rejestracja bez podania adresu e-mail i hasła
   
   -Kliknij na link "Wyloguj się" w nawigacji Moje konto.
   
-Przypadek testowy 15: Wyszukiwanie produktu "shirt"
+**Przypadek testowy 15: Wyszukiwanie produktu "shirt"
 
   Kroki:
 
@@ -319,7 +319,7 @@ Przypadek testowy 15: Wyszukiwanie produktu "shirt"
   
   -Sprawdź, czy na stronie istnieje link zawierający tekst "shirt".
 
-Przypadek testowy 16: Wyszukiwanie produktu bez wyników
+**Przypadek testowy 16: Wyszukiwanie produktu bez wyników
 
   Kroki:
 
