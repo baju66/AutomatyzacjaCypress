@@ -5,7 +5,7 @@ import { LoginPage } from "./Pages/login_page"
 
 const loginPage = new LoginPage()
 
-describe("Buing Test", function() {
+describe("Buying Test", function() {
     var searchPage;
     var billingdetails
   
